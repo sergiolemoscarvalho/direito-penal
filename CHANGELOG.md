@@ -1,5 +1,10 @@
 # Histórico de versões
 
+## 1.3 · 02/11/2026
+- Todas as citações de lei do conteúdo e dos comentários do simulado viraram links: um clique abre um pop-up com o texto do artigo.
+- Textos extraídos do Planalto (CP, CPP, Constituição, ECA, Lei de Migração, Convenções de Viena e outras), sem os trechos revogados, com link para a fonte.
+- As citações do Anteprojeto (PLS 236/2012) continuam sem link, porque o projeto não é lei.
+
 ## 1.2 · 27/10/2026
 - Contador anônimo de acessos (GoatCounter, sem cookies e sem dados pessoais).
 
